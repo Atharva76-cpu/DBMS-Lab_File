@@ -9,3 +9,4 @@ This repository contains SQL source code and explanations for DBMS Experiments. 
 - `exp-4/` — joins, correlated subqueries, `EXISTS`, simulated set operations, and `EXPLAIN`.
 - `exp-5/` — views, view-updatability tests, and a recursive CTE for employee reporting chains.
 - `exp-6/` — salary validation, salary audit triggers, and the `transfer_employee` stored procedure.
+- `exp-7/` — Functional dependencies, database normalization from 1NF to 3NF and BCNF, lossless join verification, and dependency preservation.
